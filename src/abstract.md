@@ -1,0 +1,5 @@
+# ABSTRACT
+
+This work is a software development project, more specifically the prototype of a tool that uses pre-recorded videos to make the translation of existing content in the web, which are in portuguese, into Libras. The use of the existing tools for translation to the Libras is low by deaf people for two main reasons: translation flaws or the use of 3D human representations, which make the auto identification difficult for deaf people. Its main objective is the elaboration of a web interface prototype, with low and high fidelity, that shows itself as a possible solution, like an alternative to the existing tools for translation to the Libras. For that purpose, this work was developed using the software development process, starting by the requirements gathering phase, with two turns of interviews, one informal and other formal, that was carried out with some interpreters of IFRN, continued with the solution build and finished with the development of the prototype.
+
+**Keywords**: Libras; prototyping, web interface, accessibility, pre-recorded videos.

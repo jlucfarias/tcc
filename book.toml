@@ -1,0 +1,6 @@
+[book]
+authors = ["João Lucas Farias de Almeida"]
+language = "pt-BR"
+multilingual = false
+src = "src"
+title = "Prototipação de uma solução web para a tradução da Libras com o uso de vídeos pré-gravados"
